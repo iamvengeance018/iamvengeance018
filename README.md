@@ -29,6 +29,14 @@
 
 ---
 
+## 💼 Experience
+- **Intern - VLSI Design** | Company/Organization Name *(Month Year – Month Year)*  
+  Worked on RTL design, verification, and optimization using Verilog/SystemVerilog. 
+- **Embedded Systems Trainee** | Company/Organization Name *(Month Year – Month Year)*  
+  Developed firmware for microcontrollers and implemented communication protocols.  
+
+---
+
 ## 🚀 Skills & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=verilog,cpp,python,embedded,linux,git,vscode" />
@@ -48,17 +56,31 @@
 
 ---
 
-## 🌍 Futuristic Globe Animation
+## 📊 GitHub Stats (Dark & Light Mode)
 <p align="center">
-  <!-- Prefer images stored in this repo: use the raw.githubusercontent.com URL -->
-  <img src="https://raw.githubusercontent.com/iamvengeance018/iamvengeance018/main/assets/globe.gif" width="500px" alt="Rotating 3D Globe"/>
-</p>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=iamvengeance018&show_icons=true&theme=radical"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=iamvengeance018&show_icons=true&theme=default"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=iamvengeance018&show_icons=true" height="165" />
+  </picture>
 
-<p align="center"><em>If the globe doesn't show, open this URL in your browser to check the file directly:
-https://raw.githubusercontent.com/iamvengeance018/iamvengeance018/main/assets/globe.gif</em></p>
-
-<p align="center"> <!-- Temporary fallback hosted externally (works immediately) -->
-  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="500px" alt="Rotating Globe (temp)"/>
+  <picture>
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=iamvengeance018&theme=radical"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=iamvengeance018&theme=default"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamvengeance018" height="165" />
+  </picture>
 </p>
 
 ---
@@ -86,4 +108,4 @@ https://raw.githubusercontent.com/iamvengeance018/iamvengeance018/main/assets/gl
 
 ---
 
-<p align="center"><em>"Knowledge is the ultimate semiconductor for the silicon age."</em></p>
+<p align="center"><em>"Hardwork Never Goes Unrewarded."</em></p>
