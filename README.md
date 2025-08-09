@@ -1,10 +1,5 @@
-<!--
-  GitHub Profile README for Chandra Sekaran S
-  Top-tier version with animated metrics, 3D contribution graph, visitor badge, and full professional details.
--->
-
 <h1 align="center">Hi 👋, I'm Chandra Sekaran S</h1>
-<h3 align="center">Aspiring Semiconductor Engineer | VLSI & TCAD Enthusiast | ISWDP Cohort 4 Top Performer</h3>
+<h3 align="center">Aspiring Semiconductor Engineer | VLSI & Embedded Systems Enthusiast | ISWDP Cohort 4 Top Performer</h3>
 
 <p align="center">
   <a href="mailto:scsvr2004@gmail.com">
@@ -95,6 +90,13 @@
 
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=iamvengeance018.iamvengeance018" alt="visitor badge" />
+</p>
+
+---
+
+## 🐍 Fun Animation
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
