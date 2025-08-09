@@ -106,4 +106,4 @@
 
 ---
 
-<p align="center"><em>“Knowledge is the ultimate semiconductor for the silicon age.”</em></p>
+<p align="center"><em>“Hardwork never goes Unrewarded.”</em></p>
