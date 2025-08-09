@@ -48,38 +48,17 @@
 
 ---
 
-## 📊 GitHub Stats (Dark & Light Mode)
-<p align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=iamvengeance018&show_icons=true&theme=radical"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=iamvengeance018&show_icons=true&theme=default"
-      media="(prefers-color-scheme: light)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=iamvengeance018&show_icons=true" height="165" />
-  </picture>
-
-  <picture>
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=iamvengeance018&theme=radical"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=iamvengeance018&theme=default"
-      media="(prefers-color-scheme: light)"
-    />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamvengeance018" height="165" />
-  </picture>
-</p>
-
----
-
 ## 🌍 Futuristic Globe Animation
 <p align="center">
-  <img src="https://github.com/iamvengeance018/iamvengeance018/blob/main/assets/globe.gif" width="500px" alt="Rotating 3D Globe"/>
+  <!-- Prefer images stored in this repo: use the raw.githubusercontent.com URL -->
+  <img src="https://raw.githubusercontent.com/iamvengeance018/iamvengeance018/main/assets/globe.gif" width="500px" alt="Rotating 3D Globe"/>
+</p>
+
+<p align="center"><em>If the globe doesn't show, open this URL in your browser to check the file directly:
+https://raw.githubusercontent.com/iamvengeance018/iamvengeance018/main/assets/globe.gif</em></p>
+
+<p align="center"> <!-- Temporary fallback hosted externally (works immediately) -->
+  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="500px" alt="Rotating Globe (temp)"/>
 </p>
 
 ---
