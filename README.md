@@ -1,13 +1,8 @@
-<!--
-  GitHub Profile README for Chandra Sekaran S
-  Supercharged Animated Edition – Dark/Light Mode + Live Stats
--->
-
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
   Hey there, I'm <span style="color:#FF5733;">Chandra Sekaran S</span>
 </h1>
-<h3 align="center">🚀 Aspiring Semiconductor Engineer | VLSI & TCAD Enthusiast | ISWDP Cohort 4 Top Performer</h3>
+<h3 align="center">🚀 Aspiring Semiconductor Engineer | VLSI & Embedded Systems Enthusiast | ISWDP Cohort 4 Top Performer</h3>
 
 <p align="center">
   <a href="mailto:scsvr2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -82,9 +77,9 @@
 
 ---
 
-## 📈 Coding Activity
+## 🌍 Futuristic Globe Animation
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamvengeance018&theme=react-dark&hide_border=true&area=true" width="95%"/>
+  <img src="https://github.com/iamvengeance018/iamvengeance018/blob/main/assets/globe.gif" width="500px" alt="Rotating 3D Globe"/>
 </p>
 
 ---
