@@ -1,13 +1,13 @@
 <!--
   GitHub Profile README for Chandra Sekaran S
-  Enhanced Creative Edition – Fully colorful, animated, and professional
+  Supercharged Animated Edition – Dark/Light Mode + Live Stats
 -->
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
   Hey there, I'm <span style="color:#FF5733;">Chandra Sekaran S</span>
 </h1>
-<h3 align="center">🚀 Aspiring Semiconductor Engineer | VLSI & Embedded Systems Enthusiast | ISWDP Cohort 4 Top Performer</h3>
+<h3 align="center">🚀 Aspiring Semiconductor Engineer | VLSI & TCAD Enthusiast | ISWDP Cohort 4 Top Performer</h3>
 
 <p align="center">
   <a href="mailto:scsvr2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -19,7 +19,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FF6F61&width=600&lines=Passionate+about+VLSI+%26+Semiconductor+Design;RTL+Design+%7C+EDA+Tools+%7C+Embedded+Systems;Open+to+Exciting+Opportunities;Let's+Innovate+Together!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FF6F61&width=700&lines=Passionate+about+VLSI+%26+Semiconductor+Design;RTL+Design+%7C+EDA+Tools+%7C+Embedded+Systems;Open+to+Exciting+Opportunities;Let's+Innovate+Together!">
 </p>
 
 ---
@@ -53,14 +53,52 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Dark & Light Mode)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamvengeance018&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamvengeance018&theme=radical" height="165">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=iamvengeance018&show_icons=true&theme=radical"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=iamvengeance018&show_icons=true&theme=default"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=iamvengeance018&show_icons=true" height="165" />
+  </picture>
+
+  <picture>
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=iamvengeance018&theme=radical"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=iamvengeance018&theme=default"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamvengeance018" height="165" />
+  </picture>
 </p>
 
+---
+
+## 📈 Coding Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamvengeance018&theme=react-dark&hide_border=true&area=true" width="95%"/>
+</p>
+
+---
+
+## 🏆 Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=iamvengeance018&theme=dracula&no-frame=true&row=1&column=6">
+</p>
+
+---
+
+## 🐍 Fun Animation
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation">
 </p>
 
 ---
@@ -73,9 +111,5 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation">
-</p>
 
 <p align="center"><em>"Knowledge is the ultimate semiconductor for the silicon age."</em></p>
